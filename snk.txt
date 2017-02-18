@@ -1,0 +1,4 @@
+HI THIS IS MY FIrST GIT INSTALLATION
+
+Please be aware with git
+
